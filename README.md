@@ -43,7 +43,7 @@ You can adjust the JDK version you are using by modifying the properties in the 
 
 #### Developer Team
 
-- Carlos Richard **Gerald**ine [https://github.com/carl-geralz]
-- **Ferdi**nand Johannes Robert Simanjuntak
-- Muhammad **Rasyad**dany Prasetyo
-- **Razah** Deden Ginanjar [https://github.com/razahginanjar]
+- [Carlos Richard Geraldine](https://github.com/carl-geralz)
+- Ferdinand Johannes Robert Simanjuntak
+- [Muhammad Rasyaddany Prasetyo](https://github.com/rasyadpras)
+- [Razah Deden Ginanjar](https://github.com/razahginanjar)
